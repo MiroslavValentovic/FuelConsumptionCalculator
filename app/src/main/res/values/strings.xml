@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spotreba Paliva - Kalkulačka</string>
+    <string name="consumption">textove_pole</string>
+    <string name="recalculate">Prepočítať</string>
+    <string name="enter_consumption">Zadajte spotrebu vášho vozidla</string>
+    <string name="enter_distance">Zadajte predpokladanú vzdialenosť</string>
+    <string name="enter_fuel_price">Zadajte cenu paliva</string>
+    <string name="l_100km">l/100Km</string>
+    <string name="euro_l">€ / l</string>
+    <string name="km">Km</string>
+    <string name="reset">Reset</string>
+</resources>
